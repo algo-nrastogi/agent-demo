@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Orders.Domain</RootNamespace>
+  </PropertyGroup>
+
+  <!-- Intentionally no PackageReferences: Domain must stay framework-free per
+       docs/architecture-guidelines.md -->
+
+</Project>
